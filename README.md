@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
-- 👨‍💻 <a href="[https://sushil808174.github.io/](https://sushil808174.github.io/)">**Portfolio**</a>
+- 👨‍💻 **Portfolio**[https://sushil808174.github.io/](https://sushil808174.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Java Script, Java**
 
