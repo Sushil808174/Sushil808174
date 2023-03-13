@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif"/ width="100%">
+<img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif"/ width=100%>
 <h1 align="center">Hi 👋, I'm Susheel Kumar</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src"https://content.wolfram.com/uploads/sites/39/2017/12/StereoVision-305px.gif">
