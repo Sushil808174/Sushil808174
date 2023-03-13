@@ -1,5 +1,4 @@
-
-[![MasterHead]([https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#query=code&position=0&from_view=keyword&track=sph](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.342589347.1673950604&semt=sph))]
+<img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Susheel Kumar</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src"https://content.wolfram.com/uploads/sites/39/2017/12/StereoVision-305px.gif">
