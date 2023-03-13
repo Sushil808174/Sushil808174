@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, Spring**
 
-- 👨‍💻 All of my projects are available at [https://sushil808174.github.io/](https://sushil808174.github.io/)
+- 👨‍💻 <a href="https://sushil808174.github.io">**Portfolio**</a>
 
 - 💬 Ask me about **HTML, CSS, Java Script, Java**
 
