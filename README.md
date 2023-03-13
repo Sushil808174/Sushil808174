@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif" width=100% height=400px>
 <h1 align="center">Hi 👋, I'm Susheel Kumar</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://content.wolfram.com/uploads/sites/39/2017/12/StereoVision-305px.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil808174&label=Profile%20views&color=0e75b6&style=flat" alt="sushil808174" /> </p>
 
