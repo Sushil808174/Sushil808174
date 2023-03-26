@@ -39,13 +39,13 @@
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sushil808174?tab=repositories)**
+- 🌱 I’m currently learning **Java, Spring Boot**
 
-- 📫 How to reach me **sushilkumar8081742575@gmail.com**
+- 👨‍💻 <a href="https://sushil808174.github.io/" target="_blank">**Portfolio**</a>
 
-- 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
+- 💬 Ask me about **HTML, CSS, Java Script, Java**
 
-
+- 📫 How to reach me **ksusheel2575@gmail.com**
 
 
 
