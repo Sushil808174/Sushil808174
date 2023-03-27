@@ -18,26 +18,12 @@
 <!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 
-
- 
-
-
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif" width=100% height=400px>
+<h1 align="center">Hi 👋, I'm Susheel Kumar</h1>
+<h3 align="center">A passionate Java Backend Developer from India</h3>
 
 
-
-
-
-## 🙋‍♂️ About Me
-
-<div>
-
-<p aling="left" width="48%" height="300">
-
-- 🌱 Learning ** Web Development from Masai School**
-
-- 👯 I’m looking to work as **Full Stack Web Developer**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil808174&label=Profile%20views&color=0e75b6&style=flat" alt="sushil808174" /> </p>
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
@@ -47,149 +33,18 @@
 
 - 📫 How to reach me **ksusheel2575@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bxiGpvdaju1HGaeWyhqRKjPmWoEsy4pm/view?usp=share_link](https://drive.google.com/file/d/1bxiGpvdaju1HGaeWyhqRKjPmWoEsy4pm/view?usp=share_link)
 
-
-- ⚡ Fun fact **I love understanding how exactly anything works**
-
- </p>
- 
- 
-<div align="left"><h2 > 🌐 Socials</h2> 
-  <p align="left"></p>
-<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
-<br/>
- 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "https://www.linkedin.com/in/susheel-kumar-9497b5245/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href = "https://www.instagram.com/sushilprajapati37/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "ksusheel2575@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1bxiGpvdaju1HGaeWyhqRKjPmWoEsy4pm/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
-</p>
-   </div>                                                                                                              
- <br/>   
- 
- 
- </div>
-
-<!----------------------------------------------------- Languages and Tools --------------------------------------------------------->
-## 🚀 Languages and Tools:
-<div >
- <h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />  
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=Pink" alt="JSON" />    
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"alt="Webpack"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"alt=""/>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"alt=""/>   
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"alt=""/> 
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"alt=""/>
-    <img src="https://img.shields.io/badge/MySQL-F2F4F9?style=for-the-badge&logo=MySQL"alt=""/>
-    
-  
+<a href="https://linkedin.com/in/susheel-kumar-9497b5245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susheel-kumar-9497b5245" height="30" width="40" /></a>
 </p>
 
-</div>
-  <div >
-   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Sushil808174" height="30" width="40" />
-   
- </div>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<!----------------------------------------------------- All Skills Grid Formate --------------------------------------------------------->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushil808174&show_icons=true&locale=en&layout=compact" alt="sushil808174" /></p>
 
-<br/>
-<!-- ----------------------------------------------------------------------------------<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-<br />
-<br />------------------------------------------------------------------------------- -->             
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushil808174&show_icons=true&locale=en" alt="sushil808174" /></p>
 
-
-
-
- <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                              <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/Sushil808174"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>           
- 
-
-  <!------------------------------------------------------------My Github Stats------------------------------------------------------------------------->
-               
-
-<!--    <br/>    -->
-<!-- <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"> -->
-
-## 📊 My Github Stats:
-   
-<!--    <p align="center"> 
-  <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
-  <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
-</p> -->
-   
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil808174&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Sushil808174" /></p>
-  <br/>
- <br/>  
-
- <div >
- 
- <a  align="left" width="700px" href="https://github.com/Sushil808174"><img  width="350px" alt="Susheel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil808174&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sushil808174&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Sushil808174" /></a>
-
-</div>
- <br/>  
-<div align="right"> 
- <a align="right">&nbsp;<img align="right"  src="https://github-readme-activity-graph.cyclic.app/graph?username=Sushil808174&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Sushil808174" /></a>
- </div>
- 
- <!----------------------------------------------------------------------------------------------------------------------------------------->
-
-    
-
-
-<!--------------------------------------------------------GRAPH------------------------------------------------------------>
-
-
-<br/>
-<br/>
-
-<!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/susheel-kumar-9497b5245/"> 
-  <img width="100%" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-<p align="center">
-       <!-- <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> -->
-        <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
-<br/>
- 
-<!--  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a> -->
-<!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
- 
-
-
-
- 
-
- 
-<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
-
- 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushil808174&" alt="sushil808174" /></p>
