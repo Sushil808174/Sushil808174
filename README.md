@@ -1,11 +1,5 @@
 
-<h3 align="center">Full Stack developer</h3>
-<div width="100%" display="flex">
-<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
-<h4 align="left">- Currently looking for a new opprtunity</h4>
-</div>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushil808174&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil808174" /> </p>
+
 
 
 <!-- ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) -->
@@ -17,6 +11,13 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Susheel+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 <!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
+<h3 align="center">Full Stack developer</h3>
+<div width="100%" display="flex">
+<h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
+<h4 align="left">- Currently looking for a new opprtunity</h4>
+</div>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushil808174&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil808174" /> </p>
 
 <img src="https://raw.githubusercontent.com/Jukunye/Jukunye/main/giphy.gif" width=100% height=400px>
 <h1 align="center">Hi 👋, I'm Susheel Kumar</h1>
