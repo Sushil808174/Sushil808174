@@ -63,7 +63,6 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/susheel-kumar-9497b5245/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href = "https://www.instagram.com/sushilprajapati37/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href = "sushilkumar8081742575@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1bxiGpvdaju1HGaeWyhqRKjPmWoEsy4pm/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
 </p>
    </div>                                                                                                              
