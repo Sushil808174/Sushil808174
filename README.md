@@ -147,10 +147,6 @@
 
 
 
- <!----------------------------------------------------- Let's Connect --------------------------------------------------------->                              <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
-<p align="center">
-<a href="https://www.buymeacoffee.com/Sushil808174"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
-</p>           
  
 
 
@@ -165,10 +161,10 @@
 <a href="https://github.com/Sushil808174">
  </br>
   <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil808174&theme=vue-dark"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sushil808174&theme=monokai" alt="Susheel Kumar"
+<!--   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sushil808174&theme=monokai" alt="Susheel Kumar"
    width ="100%"    align="center"
          height="200px" 
-/></a> </p>
+/></a> </p> -->
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=Sushil808174&theme=monokai&hide_border=false&include_all_commits=true&count_private=false" alt="Susheel Kumar" width="46%" height="200px"/></p></div>
