@@ -168,7 +168,7 @@
   <div>
 <p align="center"> <img alt="Susheel's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushil808174&theme=react&hide_border=false&include_all_commits=false&count_private=true" /></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sushil808174&layout=compact&langs_count=8&theme=vue-dark" alt="Susheel Kumar" height="200px"  width="48%"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sushil808174&layout=compact&langs_count=8&theme=vue-dark" alt="Susheel Kumar" height="200px"  width="48%"/></p>
 </div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil808174&theme=monokai"  align="center"
