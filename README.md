@@ -16,13 +16,10 @@
 <div width="100%"  style="margin-auto">
 <img align="center" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center">
 <!--  </div> -->
-<!-- [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)] -->
-<!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
-<!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Susheel+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
-<!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
+ <!--[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)] -->
 
-<!-- <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Susheel+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+
 
 
 
