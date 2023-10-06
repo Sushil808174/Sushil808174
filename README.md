@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif) -->
+
 
 <h2 align="center">Full Stack developer</h2>
 <div width="100%" display="flex">
