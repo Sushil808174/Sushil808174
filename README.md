@@ -63,12 +63,10 @@
  <a href = "https://www.instagram.com/sushilprajapati37/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1bxiGpvdaju1HGaeWyhqRKjPmWoEsy4pm/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
 
-
 </p>
 
    </div>                                                                                                              
  <br/>   
- 
  
  </div>
 
