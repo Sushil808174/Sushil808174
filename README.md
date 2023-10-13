@@ -18,8 +18,6 @@
 
 <div align="center">
 
-
-
 ## 🙋‍♂️ About Me
 
 <div>
