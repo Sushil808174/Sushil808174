@@ -160,7 +160,6 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil808174&theme=monokai"  align="center"
         width="100%" heigth="250px"
       /></p>
-
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=Sushil808174&theme=dracula" alt="Susheel Kumar" align="center" /></a>
 </p>
