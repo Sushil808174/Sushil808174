@@ -34,7 +34,6 @@
 - 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
 
 
-
 - ⚡ Fun fact **I love understanding how exactly anything works**
 
  </p>
