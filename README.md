@@ -139,18 +139,45 @@
  </h2>
  <p align="center">
 <a href="https://github.com/Sushil808174">
+ </br>   
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil808174&theme=gotham&hide_border=false"/>
+  
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+  <div>
+<p align="center"><img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushil808174&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" alt="Susheel" width="46%" height="200px"/></p></div>
+<div>
+<!--top lang-->
+<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushil808174&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Susheel" height="200px"  width="48%"/></p></div>
+
+<!-- <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amanastel&theme=gotham&hide_border=true" alt="aman" align="center" /></a>
+</p> -->
+
+
+
+
+<!-- <h2 align="center">
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
+ My Github Stats 
+<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
+</h2>
+ </h2>
+ <p align="center">
+<a href="https://github.com/Sushil808174">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil808174&theme=vue-dark"/>
+  <img  align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushil808174&theme=vue-dark"/> -->
 <!--   <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sushil808174&theme=monokai" alt="Susheel Kumar"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p> -->
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+<!-- <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
 <p align="center"> <img alt="Susheel's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sushil808174&theme=react&hide_border=false&include_all_commits=false&count_private=true" /></p></div>
 <div>
 <p align="center"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sushil808174&layout=compact&langs_count=8&theme=vue-dark" alt="Susheel Kumar" height="200px"  width="48%"/></p>
-</div>
+</div> -->
+
+
  
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushil808174&theme=monokai"  align="center"
@@ -165,10 +192,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p> 
- <!----------------------------------------------------------------------------------------------------------------------------------------->
 
-    
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
