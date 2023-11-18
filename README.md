@@ -1,4 +1,10 @@
-<h2 align="center">Full Stack developer</h2>
+<h1 align="center">Hi, I'm Susheel Kumar</h1>
+<br/>
+
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Software+developer;Java+Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+</div>
+
 <div width="100%" display="flex">
  
 <h3 align="center">Self-motivated and inspiring a java backend developer with 1200+ hours of hands-on codding experience. looking for a challenging growth-oriented organization</h3>
@@ -6,38 +12,41 @@
 </div>
 <br/>
 
+ <img src="https://i.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.webp" style="width: 100%; height: 350px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushil808174&label=Profile%20views&color=0e75b6&style=flat" alt="Sushil808174" /> </p>
 
-<div width="100%"  style="margin-auto">
-<img align="center" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center">
-<!--  </div> -->
 
+<!-- <div style="display: flex; justify-content: space-between; width: 100%; margin: auto;">-->
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Susheel+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+  <p style="width: 48%;"> 
 
-<div align="center">
+   ## 🙋‍♂️ About Me
 
-## 🙋‍♂️ About Me
-
-<div>
-
-
-<p aling="left" width="48%" height="300">
-
-- 🌱 Learning ** Web Development from Masai School**
-
-- 👯 I’m looking to work as **Full Stack Web Developer**
-
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sushil808174?tab=repositories)**
-
-- 📫 How to reach me **sushilkumar8081742575@gmail.com**
-
-- 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
-
-
-- ⚡ Fun fact **I love understanding how exactly anything works**
-
+    - 🌱 Learning **Web Development from Masai School**
+ 
+    - 👯 I’m looking to work as **Full Stack Web Developer**
+ 
+    - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sushil808174?tab=repositories)**
+ 
+    - 📫 How to reach me **sushilkumar8081742575@gmail.com**
+ 
+    - 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
+ 
+    - ⚡ Fun fact **I love understanding how exactly anything works**
  </p>
+ 
+</div> -->
+
+
+
+ 
+<!-- <img align="center" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" align="center"> -->
+
+
+<!-- <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Susheel+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;"> -->
+
+
  
 <div align="left"><h2 > 🌐 Socials</h2> 
   <p align="left"></p>
@@ -57,10 +66,10 @@
  
  </div>
 
-
- # 💻 My favorite tools and skills
-
-<table>
+<h1 align="center">
+ 💻 My favorite tools and skills
+</h1>
+<table align="center">
   <tr>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="maven" />
