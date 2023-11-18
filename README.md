@@ -36,7 +36,7 @@
     - ⚡ Fun fact **I love understanding how exactly anything works**
  </p>
  
-</div> -->
+</div> 
 
 
 
