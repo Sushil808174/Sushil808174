@@ -23,17 +23,17 @@
 
    ## 🙋‍♂️ About Me
 
-    - 🌱 Learning **Web Development from Masai School**
- 
-    - 👯 I’m looking to work as **Full Stack Web Developer**
- 
-    - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sushil808174?tab=repositories)**
- 
-    - 📫 How to reach me **sushilkumar8081742575@gmail.com**
- 
-    - 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
- 
-    - ⚡ Fun fact **I love understanding how exactly anything works**
+   - 🌱 Learning **Web Development from Masai School**
+
+   - 👯 I’m looking to work as **Full Stack Web Developer**
+
+   - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sushil808174?tab=repositories)**
+
+   - 📫 How to reach me **sushilkumar8081742575@gmail.com**
+
+   - 🔭 Know more about me **[Portfolio](https://Sushil808174.github.io/)**
+
+   - ⚡ Fun fact **I love understanding how exactly anything works**
  </p>
  
 </div> 
